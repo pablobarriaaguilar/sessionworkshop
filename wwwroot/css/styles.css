@@ -1,0 +1,55 @@
+.Navbar{
+    display: flex;
+    
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom-style: solid;
+}
+.buttonLogout{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(171, 53, 53);
+}
+.buttonPlus{
+    width: 150px;
+    height: 80px;
+    background-color: rgb(223, 215, 47);
+}
+.buttonMinus{
+    width: 150px;
+    height: 80px;
+    background-color: rgb(65, 132, 220);
+}
+.buttonMulti{
+    width: 150px;
+    height: 80px;
+    background-color: rgb(171, 53, 53);
+}
+.buttonRandom{
+    width: 150px;
+    height: 80px;
+    background-color: rgb(26, 87, 26);
+}
+
+
+.Container{
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    height: 300px;
+    flex-direction: column;
+
+}
+.containerFirst{
+    display: flex;
+    
+    
+}
+
+.containerSecond{
+    display: flex;
+    
+    
+}
